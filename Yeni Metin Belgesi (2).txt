@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>trafiktesondurum</title>
+</head>
+<body>
+  <h1>trafiktesondurum</h1>
+  <p>Türkiye geneli trafik ve kaza bildirim sistemi</p>
+  <a href="signup.html">Kayıt Ol</a>
+  <a href="login.html">Giriş Yap</a>
+</body>
+</html>
